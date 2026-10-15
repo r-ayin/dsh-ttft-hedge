@@ -1,0 +1,4 @@
+# Bundle patch: inserts this plugin into the profile layer stack.
+- insert:
+    - id: dsh-ttft-hedge
+      name: dsh-ttft-hedge
