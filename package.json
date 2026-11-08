@@ -1,6 +1,6 @@
 {
   "name": "dsh-ttft-hedge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hedged requests for streaming /v1/messages LLM calls: fires a second attempt when response headers miss a deadline and races them, retries immediately on 5xx/504, passes through 4xx/429, with statistics.",
   "private": true,
   "type": "module",
